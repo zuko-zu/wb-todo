@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mui-todo/static/css/main.210ef378.css",
+    "main.js": "/mui-todo/static/js/main.586a5791.js",
+    "index.html": "/mui-todo/index.html",
+    "main.210ef378.css.map": "/mui-todo/static/css/main.210ef378.css.map",
+    "main.586a5791.js.map": "/mui-todo/static/js/main.586a5791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210ef378.css",
+    "static/js/main.586a5791.js"
+  ]
+}
